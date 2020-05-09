@@ -1,11 +1,11 @@
-# DATA 620 Assignment 6.1
+# Assignment
 # Submitted By : Group 2
-#                 Arun Kumar Rangaraju
+#                A.K.R
 #                 Dennis Orellana 
-#                 Douglas Scheffler 
-#                 Mark Shore
+#                 D.S 
+#                 M.S
 # Semester : Fall 2019
-# Professor: Dr Prasanna Menta
+# 
 # Script File Name: G2_2_Transform.sql
 #
 # Purpose: This script (3 of 4) is part of DATA 620 Assignment 6.1 
