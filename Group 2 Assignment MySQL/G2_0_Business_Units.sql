@@ -5,7 +5,7 @@
 #                 D.S 
 #                 M.S
 # Semester : Fall 2019
-# Professor: Dr Prasanna Menta
+# 
 # Script File Name: G2_0_Business_Units.sql
 #
 # Purpose: This script (1 of 4) is part of DATA 620 Assignment 6.1 
