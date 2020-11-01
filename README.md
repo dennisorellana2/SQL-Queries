@@ -10,7 +10,7 @@
 
 Resource Used: First GOP Debate Dataset link: https://data.world/socialmediadata/first-gop-debate-twitter
 
-Tool: IBM Db2 on Cloud <img align="left" alt="Python" width="26px" src="https://pbs.twimg.com/media/CNLg3NoUEAA03e8?format=png&name=360x360" />
+Tool: IBM Db2 on Cloud <img align="left" alt="IBM Db2 on Cloud" width="26px" src="https://pbs.twimg.com/media/CNLg3NoUEAA03e8?format=png&name=360x360" />
 
 
  Overall purpose is to discover tweets' sentiment data from the First GOP Debate using DB2 on Cloud.
