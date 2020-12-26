@@ -5,6 +5,7 @@
 ### Group 2 Assignment MySQL Folder
   - This was a group assignment using My SQL Workbench on writing an ETL (extract, transform, and load) code sequence, and executing it on three years’ worth of order data. 
 
+![](/images/SQL%20Output%20image.png)
 
 ### Analyzing the first 2015 GOP Debate tweets using SQL in IBM Db2 on Cloud
 
