@@ -2,10 +2,10 @@
 
 ## Academic experience projects on SQL
 
--Group 2 MySQL Assignment 
+- Group 2 MySQL Assignment 
 
 
--First 2015 GOP Debate tweets
+- First 2015 GOP Debate tweets
 
 ### Group 2 MySQL Assignment 
   - This was a group assignment using MySQL Workbench on writing an ETL (extract, transform, and load) code sequence, and executing it on three years’ worth of order data. 
