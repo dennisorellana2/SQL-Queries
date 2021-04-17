@@ -1,9 +1,14 @@
 # SQL-Queries
 
-## Academic experience and self-learning projects on SQL
+## Academic experience projects on SQL
 
-### Group 2 Assignment MySQL Folder
-  - This was a group assignment using My SQL Workbench on writing an ETL (extract, transform, and load) code sequence, and executing it on three years’ worth of order data. 
+-Group 2 MySQL Assignment 
+
+
+-First 2015 GOP Debate tweets
+
+### Group 2 MySQL Assignment 
+  - This was a group assignment using MySQL Workbench on writing an ETL (extract, transform, and load) code sequence, and executing it on three years’ worth of order data. 
 
 ![](/SQL%20Output%20image.png)
 
