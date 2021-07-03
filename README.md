@@ -20,3 +20,5 @@ Tool: IBM Db2 on Cloud <img align="left" alt="IBM Db2 on Cloud" width="26px" src
 
 
  Overall purpose is to discover tweets' sentiment data from the First GOP Debate using DB2 on Cloud.
+ 
+ In conclusion, the analysis's main finding is that there were many negative sentiment tweets with Donald Trump. No candidate mentioned FOX News or Moderators and none of the above topics during the first GOP Debate. 
