@@ -16,8 +16,13 @@
 
 Resource Used: First GOP Debate Dataset link: https://data.world/socialmediadata/first-gop-debate-twitter
 
-Tool: IBM Db2 on Cloud <img align="left" alt="IBM Db2 on Cloud" width="26px" src="https://pbs.twimg.com/media/CNLg3NoUEAA03e8?format=png&name=360x360" />
+Tools:
 
+IBM Db2 on Cloud <img align="left" alt="IBM Db2 on Cloud" width="26px" src="https://pbs.twimg.com/media/CNLg3NoUEAA03e8?format=png&name=360x360" />
+
+Watson Studio <img align="left" alt="Watson Studio" width="26px" src="https://cache.globalcatalog.cloud.ibm.com/api/v1/39ba9d4c-b1c5-4cc3-a163-38b580121e01/artifacts/cache/3a58e03b24ca5cfe0195ae72fd7c5401-public/watson-studio-light.svg" />
+
+R <img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
 
  Overall purpose is to discover tweets' sentiment data from the First GOP Debate using DB2 on Cloud.
  
